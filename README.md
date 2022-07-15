@@ -3,6 +3,8 @@
 
 ### Projeto realizado em java, é necessário ter o java instalado e uma IDE para rodar o projeto.
 
+Jogável por dois jogadores em um mesmo computador seguindo os padrões mencionados acima!
+
 
 Jogo da velha feito em java usando o swing.
 ![tela do jogo da velha](https://user-images.githubusercontent.com/24979432/178625909-21913c73-d219-45f4-8631-36f36848f8a2.png)
